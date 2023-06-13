@@ -1,4 +1,4 @@
-A. Vanya and Fence
+# A. Vanya and Fence
 
 Vanya and his friends are walking along the fence of height h and they do not want the guard to notice them. In order to achieve this the height of each of the friends should not exceed h. If the height of some person is greater than h he can bend down and then he surely won't be noticed by the guard. The height of the i-th person is equal to ai.
 
@@ -11,3 +11,10 @@ The second line contains n integers ai (1 ≤ ai ≤ 2h), the i-th of th
 
 ## Output
 Print a single integer — the minimum possible valid width of the road.
+
+## Examples
+### input
+3 7<br>
+4 5 14
+### output
+4
